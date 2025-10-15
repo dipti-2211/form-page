@@ -35,7 +35,7 @@ You need a web browser and, optionally, a local development server or a code edi
 
 ```bash
 git clone [https://github.com/dipti-2211/form-page.git](https://github.com/dipti-2211/form-page.git)
-cd form-page
+cd clean-app
 ```
 2. Run the project
 Since this is a front-end only project, you can simply open the index.html file in your web browser.
